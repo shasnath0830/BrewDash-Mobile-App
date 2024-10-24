@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041087356174",
+    "project_id": "fooddeliverytute-15a97",
+    "storage_bucket": "fooddeliverytute-15a97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041087356174:android:9ad456392579fef1354b5f",
+        "android_client_info": {
+          "package_name": "com.example.brew_dash_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMWNYNMO-UKmXrhGo7X3XS6iFcxaAR1lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
